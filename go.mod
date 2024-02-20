@@ -1,4 +1,4 @@
-module github.com/40t/go-sniffer
+module github.com/hitbiter/go-sniffer
 
 go 1.21
 
